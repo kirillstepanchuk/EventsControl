@@ -1,0 +1,42 @@
+body {
+	background-color: #ff66cc;
+}
+
+.chtoto {
+	background-color: #ff99cc;
+}
+
+.chtoto {
+	width: 300px;
+	margin: 0 auto;
+}
+
+.heading {
+	text-align: center;
+}
+
+.control-items {
+	display: flex;
+	justify-content: space-around;
+}
+
+.event-list {
+	padding: 0;
+}
+
+.event-unit {
+	list-style: none;
+
+	height: 30px;
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.event-number {
+	background-color: #ff3399;
+	text-align: center;
+
+	width: 30px;
+}
